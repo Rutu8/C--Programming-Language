@@ -1,0 +1,14 @@
+D:\c# programs\netSalary\netSalary\bin\Debug\net8.0\netSalary.exe
+D:\c# programs\netSalary\netSalary\bin\Debug\net8.0\netSalary.deps.json
+D:\c# programs\netSalary\netSalary\bin\Debug\net8.0\netSalary.runtimeconfig.json
+D:\c# programs\netSalary\netSalary\bin\Debug\net8.0\netSalary.dll
+D:\c# programs\netSalary\netSalary\bin\Debug\net8.0\netSalary.pdb
+D:\c# programs\netSalary\netSalary\obj\Debug\net8.0\netSalary.GeneratedMSBuildEditorConfig.editorconfig
+D:\c# programs\netSalary\netSalary\obj\Debug\net8.0\netSalary.AssemblyInfoInputs.cache
+D:\c# programs\netSalary\netSalary\obj\Debug\net8.0\netSalary.AssemblyInfo.cs
+D:\c# programs\netSalary\netSalary\obj\Debug\net8.0\netSalary.csproj.CoreCompileInputs.cache
+D:\c# programs\netSalary\netSalary\obj\Debug\net8.0\netSalary.dll
+D:\c# programs\netSalary\netSalary\obj\Debug\net8.0\refint\netSalary.dll
+D:\c# programs\netSalary\netSalary\obj\Debug\net8.0\netSalary.pdb
+D:\c# programs\netSalary\netSalary\obj\Debug\net8.0\netSalary.genruntimeconfig.cache
+D:\c# programs\netSalary\netSalary\obj\Debug\net8.0\ref\netSalary.dll

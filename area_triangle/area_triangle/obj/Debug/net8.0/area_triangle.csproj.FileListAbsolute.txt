@@ -1,0 +1,14 @@
+D:\c# programs\area_triangle\area_triangle\bin\Debug\net8.0\area_triangle.exe
+D:\c# programs\area_triangle\area_triangle\bin\Debug\net8.0\area_triangle.deps.json
+D:\c# programs\area_triangle\area_triangle\bin\Debug\net8.0\area_triangle.runtimeconfig.json
+D:\c# programs\area_triangle\area_triangle\bin\Debug\net8.0\area_triangle.dll
+D:\c# programs\area_triangle\area_triangle\bin\Debug\net8.0\area_triangle.pdb
+D:\c# programs\area_triangle\area_triangle\obj\Debug\net8.0\area_triangle.GeneratedMSBuildEditorConfig.editorconfig
+D:\c# programs\area_triangle\area_triangle\obj\Debug\net8.0\area_triangle.AssemblyInfoInputs.cache
+D:\c# programs\area_triangle\area_triangle\obj\Debug\net8.0\area_triangle.AssemblyInfo.cs
+D:\c# programs\area_triangle\area_triangle\obj\Debug\net8.0\area_triangle.csproj.CoreCompileInputs.cache
+D:\c# programs\area_triangle\area_triangle\obj\Debug\net8.0\area_triangle.dll
+D:\c# programs\area_triangle\area_triangle\obj\Debug\net8.0\refint\area_triangle.dll
+D:\c# programs\area_triangle\area_triangle\obj\Debug\net8.0\area_triangle.pdb
+D:\c# programs\area_triangle\area_triangle\obj\Debug\net8.0\area_triangle.genruntimeconfig.cache
+D:\c# programs\area_triangle\area_triangle\obj\Debug\net8.0\ref\area_triangle.dll

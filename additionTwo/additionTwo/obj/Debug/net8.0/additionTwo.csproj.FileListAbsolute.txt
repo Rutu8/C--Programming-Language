@@ -1,0 +1,14 @@
+D:\c# programs\additionTwo\additionTwo\obj\Debug\net8.0\additionTwo.GeneratedMSBuildEditorConfig.editorconfig
+D:\c# programs\additionTwo\additionTwo\obj\Debug\net8.0\additionTwo.AssemblyInfoInputs.cache
+D:\c# programs\additionTwo\additionTwo\obj\Debug\net8.0\additionTwo.AssemblyInfo.cs
+D:\c# programs\additionTwo\additionTwo\obj\Debug\net8.0\additionTwo.csproj.CoreCompileInputs.cache
+D:\c# programs\additionTwo\additionTwo\bin\Debug\net8.0\additionTwo.exe
+D:\c# programs\additionTwo\additionTwo\bin\Debug\net8.0\additionTwo.deps.json
+D:\c# programs\additionTwo\additionTwo\bin\Debug\net8.0\additionTwo.runtimeconfig.json
+D:\c# programs\additionTwo\additionTwo\bin\Debug\net8.0\additionTwo.dll
+D:\c# programs\additionTwo\additionTwo\bin\Debug\net8.0\additionTwo.pdb
+D:\c# programs\additionTwo\additionTwo\obj\Debug\net8.0\additionTwo.dll
+D:\c# programs\additionTwo\additionTwo\obj\Debug\net8.0\refint\additionTwo.dll
+D:\c# programs\additionTwo\additionTwo\obj\Debug\net8.0\additionTwo.pdb
+D:\c# programs\additionTwo\additionTwo\obj\Debug\net8.0\additionTwo.genruntimeconfig.cache
+D:\c# programs\additionTwo\additionTwo\obj\Debug\net8.0\ref\additionTwo.dll

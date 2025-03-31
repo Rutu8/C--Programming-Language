@@ -1,0 +1,14 @@
+D:\c# programs\datatypes\datatypes\bin\Debug\net8.0\datatypes.exe
+D:\c# programs\datatypes\datatypes\bin\Debug\net8.0\datatypes.deps.json
+D:\c# programs\datatypes\datatypes\bin\Debug\net8.0\datatypes.runtimeconfig.json
+D:\c# programs\datatypes\datatypes\bin\Debug\net8.0\datatypes.dll
+D:\c# programs\datatypes\datatypes\bin\Debug\net8.0\datatypes.pdb
+D:\c# programs\datatypes\datatypes\obj\Debug\net8.0\datatypes.GeneratedMSBuildEditorConfig.editorconfig
+D:\c# programs\datatypes\datatypes\obj\Debug\net8.0\datatypes.AssemblyInfoInputs.cache
+D:\c# programs\datatypes\datatypes\obj\Debug\net8.0\datatypes.AssemblyInfo.cs
+D:\c# programs\datatypes\datatypes\obj\Debug\net8.0\datatypes.csproj.CoreCompileInputs.cache
+D:\c# programs\datatypes\datatypes\obj\Debug\net8.0\datatypes.dll
+D:\c# programs\datatypes\datatypes\obj\Debug\net8.0\refint\datatypes.dll
+D:\c# programs\datatypes\datatypes\obj\Debug\net8.0\datatypes.pdb
+D:\c# programs\datatypes\datatypes\obj\Debug\net8.0\datatypes.genruntimeconfig.cache
+D:\c# programs\datatypes\datatypes\obj\Debug\net8.0\ref\datatypes.dll

@@ -1,0 +1,14 @@
+D:\c# programs\simpleInterest.cs\simpleInterest.cs\bin\Debug\net8.0\simpleInterest.cs.exe
+D:\c# programs\simpleInterest.cs\simpleInterest.cs\bin\Debug\net8.0\simpleInterest.cs.deps.json
+D:\c# programs\simpleInterest.cs\simpleInterest.cs\bin\Debug\net8.0\simpleInterest.cs.runtimeconfig.json
+D:\c# programs\simpleInterest.cs\simpleInterest.cs\bin\Debug\net8.0\simpleInterest.cs.dll
+D:\c# programs\simpleInterest.cs\simpleInterest.cs\bin\Debug\net8.0\simpleInterest.cs.pdb
+D:\c# programs\simpleInterest.cs\simpleInterest.cs\obj\Debug\net8.0\simpleInterest.cs.GeneratedMSBuildEditorConfig.editorconfig
+D:\c# programs\simpleInterest.cs\simpleInterest.cs\obj\Debug\net8.0\simpleInterest.cs.AssemblyInfoInputs.cache
+D:\c# programs\simpleInterest.cs\simpleInterest.cs\obj\Debug\net8.0\simpleInterest.cs.AssemblyInfo.cs
+D:\c# programs\simpleInterest.cs\simpleInterest.cs\obj\Debug\net8.0\simpleInterest.cs.csproj.CoreCompileInputs.cache
+D:\c# programs\simpleInterest.cs\simpleInterest.cs\obj\Debug\net8.0\simpleInterest.cs.dll
+D:\c# programs\simpleInterest.cs\simpleInterest.cs\obj\Debug\net8.0\refint\simpleInterest.cs.dll
+D:\c# programs\simpleInterest.cs\simpleInterest.cs\obj\Debug\net8.0\simpleInterest.cs.pdb
+D:\c# programs\simpleInterest.cs\simpleInterest.cs\obj\Debug\net8.0\simpleInterest.cs.genruntimeconfig.cache
+D:\c# programs\simpleInterest.cs\simpleInterest.cs\obj\Debug\net8.0\ref\simpleInterest.cs.dll
