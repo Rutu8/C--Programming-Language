@@ -1,0 +1,15 @@
+D:\c# programs\C--Programming-Language\numbersLoop\numbersLoop\bin\Debug\net8.0\numbersLoop.exe
+D:\c# programs\C--Programming-Language\numbersLoop\numbersLoop\bin\Debug\net8.0\numbersLoop.deps.json
+D:\c# programs\C--Programming-Language\numbersLoop\numbersLoop\bin\Debug\net8.0\numbersLoop.runtimeconfig.json
+D:\c# programs\C--Programming-Language\numbersLoop\numbersLoop\bin\Debug\net8.0\numbersLoop.dll
+D:\c# programs\C--Programming-Language\numbersLoop\numbersLoop\bin\Debug\net8.0\numbersLoop.pdb
+D:\c# programs\C--Programming-Language\numbersLoop\numbersLoop\obj\Debug\net8.0\numbersLoop.GeneratedMSBuildEditorConfig.editorconfig
+D:\c# programs\C--Programming-Language\numbersLoop\numbersLoop\obj\Debug\net8.0\numbersLoop.AssemblyInfoInputs.cache
+D:\c# programs\C--Programming-Language\numbersLoop\numbersLoop\obj\Debug\net8.0\numbersLoop.AssemblyInfo.cs
+D:\c# programs\C--Programming-Language\numbersLoop\numbersLoop\obj\Debug\net8.0\numbersLoop.csproj.CoreCompileInputs.cache
+D:\c# programs\C--Programming-Language\numbersLoop\numbersLoop\obj\Debug\net8.0\numbersLoop.sourcelink.json
+D:\c# programs\C--Programming-Language\numbersLoop\numbersLoop\obj\Debug\net8.0\numbersLoop.dll
+D:\c# programs\C--Programming-Language\numbersLoop\numbersLoop\obj\Debug\net8.0\refint\numbersLoop.dll
+D:\c# programs\C--Programming-Language\numbersLoop\numbersLoop\obj\Debug\net8.0\numbersLoop.pdb
+D:\c# programs\C--Programming-Language\numbersLoop\numbersLoop\obj\Debug\net8.0\numbersLoop.genruntimeconfig.cache
+D:\c# programs\C--Programming-Language\numbersLoop\numbersLoop\obj\Debug\net8.0\ref\numbersLoop.dll
