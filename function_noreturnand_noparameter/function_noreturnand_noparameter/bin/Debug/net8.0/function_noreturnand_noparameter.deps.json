@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "function_noreturnand_noparameter/1.0.0": {
+        "runtime": {
+          "function_noreturnand_noparameter.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "function_noreturnand_noparameter/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

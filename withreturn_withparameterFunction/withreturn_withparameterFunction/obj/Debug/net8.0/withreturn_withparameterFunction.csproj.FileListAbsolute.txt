@@ -1,0 +1,15 @@
+D:\c# programs\C--Programming-Language\withreturn_withparameterFunction\withreturn_withparameterFunction\bin\Debug\net8.0\withreturn_withparameterFunction.exe
+D:\c# programs\C--Programming-Language\withreturn_withparameterFunction\withreturn_withparameterFunction\bin\Debug\net8.0\withreturn_withparameterFunction.deps.json
+D:\c# programs\C--Programming-Language\withreturn_withparameterFunction\withreturn_withparameterFunction\bin\Debug\net8.0\withreturn_withparameterFunction.runtimeconfig.json
+D:\c# programs\C--Programming-Language\withreturn_withparameterFunction\withreturn_withparameterFunction\bin\Debug\net8.0\withreturn_withparameterFunction.dll
+D:\c# programs\C--Programming-Language\withreturn_withparameterFunction\withreturn_withparameterFunction\bin\Debug\net8.0\withreturn_withparameterFunction.pdb
+D:\c# programs\C--Programming-Language\withreturn_withparameterFunction\withreturn_withparameterFunction\obj\Debug\net8.0\withreturn_withparameterFunction.GeneratedMSBuildEditorConfig.editorconfig
+D:\c# programs\C--Programming-Language\withreturn_withparameterFunction\withreturn_withparameterFunction\obj\Debug\net8.0\withreturn_withparameterFunction.AssemblyInfoInputs.cache
+D:\c# programs\C--Programming-Language\withreturn_withparameterFunction\withreturn_withparameterFunction\obj\Debug\net8.0\withreturn_withparameterFunction.AssemblyInfo.cs
+D:\c# programs\C--Programming-Language\withreturn_withparameterFunction\withreturn_withparameterFunction\obj\Debug\net8.0\withreturn_withparameterFunction.csproj.CoreCompileInputs.cache
+D:\c# programs\C--Programming-Language\withreturn_withparameterFunction\withreturn_withparameterFunction\obj\Debug\net8.0\withreturn_withparameterFunction.sourcelink.json
+D:\c# programs\C--Programming-Language\withreturn_withparameterFunction\withreturn_withparameterFunction\obj\Debug\net8.0\withreturn_withparameterFunction.dll
+D:\c# programs\C--Programming-Language\withreturn_withparameterFunction\withreturn_withparameterFunction\obj\Debug\net8.0\refint\withreturn_withparameterFunction.dll
+D:\c# programs\C--Programming-Language\withreturn_withparameterFunction\withreturn_withparameterFunction\obj\Debug\net8.0\withreturn_withparameterFunction.pdb
+D:\c# programs\C--Programming-Language\withreturn_withparameterFunction\withreturn_withparameterFunction\obj\Debug\net8.0\withreturn_withparameterFunction.genruntimeconfig.cache
+D:\c# programs\C--Programming-Language\withreturn_withparameterFunction\withreturn_withparameterFunction\obj\Debug\net8.0\ref\withreturn_withparameterFunction.dll
