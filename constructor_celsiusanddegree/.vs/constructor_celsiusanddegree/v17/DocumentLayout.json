@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\c# programs\\C--Programming-Language\\constructor_celsiusanddegree\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D84D8A6B-4CCE-43E9-8D16-7BAAED74891D}|constructor_celsiusanddegree\\constructor_celsiusanddegree.csproj|d:\\c# programs\\c--programming-language\\constructor_celsiusanddegree\\constructor_celsiusanddegree\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D84D8A6B-4CCE-43E9-8D16-7BAAED74891D}|constructor_celsiusanddegree\\constructor_celsiusanddegree.csproj|solutionrelative:constructor_celsiusanddegree\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D84D8A6B-4CCE-43E9-8D16-7BAAED74891D}|constructor_celsiusanddegree\\constructor_celsiusanddegree.csproj|d:\\c# programs\\c--programming-language\\constructor_celsiusanddegree\\constructor_celsiusanddegree\\temperature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D84D8A6B-4CCE-43E9-8D16-7BAAED74891D}|constructor_celsiusanddegree\\constructor_celsiusanddegree.csproj|solutionrelative:constructor_celsiusanddegree\\temperature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Temperature.cs",
+              "DocumentMoniker": "D:\\c# programs\\C--Programming-Language\\constructor_celsiusanddegree\\constructor_celsiusanddegree\\Temperature.cs",
+              "RelativeDocumentMoniker": "constructor_celsiusanddegree\\Temperature.cs",
+              "ToolTip": "D:\\c# programs\\C--Programming-Language\\constructor_celsiusanddegree\\constructor_celsiusanddegree\\Temperature.cs",
+              "RelativeToolTip": "constructor_celsiusanddegree\\Temperature.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T14:39:09.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\c# programs\\C--Programming-Language\\constructor_celsiusanddegree\\constructor_celsiusanddegree\\Program.cs",
+              "RelativeDocumentMoniker": "constructor_celsiusanddegree\\Program.cs",
+              "ToolTip": "D:\\c# programs\\C--Programming-Language\\constructor_celsiusanddegree\\constructor_celsiusanddegree\\Program.cs",
+              "RelativeToolTip": "constructor_celsiusanddegree\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T14:37:37.968Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

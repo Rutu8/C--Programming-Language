@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\c# programs\\C--Programming-Language\\Fabboancie_series\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1D80A97D-50EA-43B4-9313-5A3766CFDDEC}|Fabboancie_series\\Fabboancie_series.csproj|d:\\c# programs\\c--programming-language\\fabboancie_series\\fabboancie_series\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D80A97D-50EA-43B4-9313-5A3766CFDDEC}|Fabboancie_series\\Fabboancie_series.csproj|solutionrelative:fabboancie_series\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\c# programs\\C--Programming-Language\\Fabboancie_series\\Fabboancie_series\\Program.cs",
+              "RelativeDocumentMoniker": "Fabboancie_series\\Program.cs",
+              "ToolTip": "D:\\c# programs\\C--Programming-Language\\Fabboancie_series\\Fabboancie_series\\Program.cs",
+              "RelativeToolTip": "Fabboancie_series\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T14:24:53.807Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\c# programs\\C--Programming-Language\\classAndobject_1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F9256554-FD1B-44FB-A123-200C1B2913D3}|classAndobject_1\\classAndobject_1.csproj|d:\\c# programs\\c--programming-language\\classandobject_1\\classandobject_1\\multiplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9256554-FD1B-44FB-A123-200C1B2913D3}|classAndobject_1\\classAndobject_1.csproj|solutionrelative:classandobject_1\\multiplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9256554-FD1B-44FB-A123-200C1B2913D3}|classAndobject_1\\classAndobject_1.csproj|d:\\c# programs\\c--programming-language\\classandobject_1\\classandobject_1\\addition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9256554-FD1B-44FB-A123-200C1B2913D3}|classAndobject_1\\classAndobject_1.csproj|solutionrelative:classandobject_1\\addition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9256554-FD1B-44FB-A123-200C1B2913D3}|classAndobject_1\\classAndobject_1.csproj|d:\\c# programs\\c--programming-language\\classandobject_1\\classandobject_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9256554-FD1B-44FB-A123-200C1B2913D3}|classAndobject_1\\classAndobject_1.csproj|solutionrelative:classandobject_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "multiplication.cs",
+              "DocumentMoniker": "D:\\c# programs\\C--Programming-Language\\classAndobject_1\\classAndobject_1\\multiplication.cs",
+              "RelativeDocumentMoniker": "classAndobject_1\\multiplication.cs",
+              "ToolTip": "D:\\c# programs\\C--Programming-Language\\classAndobject_1\\classAndobject_1\\multiplication.cs",
+              "RelativeToolTip": "classAndobject_1\\multiplication.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T07:32:51.838Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "addition.cs",
+              "DocumentMoniker": "D:\\c# programs\\C--Programming-Language\\classAndobject_1\\classAndobject_1\\addition.cs",
+              "RelativeDocumentMoniker": "classAndobject_1\\addition.cs",
+              "ToolTip": "D:\\c# programs\\C--Programming-Language\\classAndobject_1\\classAndobject_1\\addition.cs",
+              "RelativeToolTip": "classAndobject_1\\addition.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T07:11:40.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\c# programs\\C--Programming-Language\\classAndobject_1\\classAndobject_1\\Program.cs",
+              "RelativeDocumentMoniker": "classAndobject_1\\Program.cs",
+              "ToolTip": "D:\\c# programs\\C--Programming-Language\\classAndobject_1\\classAndobject_1\\Program.cs",
+              "RelativeToolTip": "classAndobject_1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T07:10:54.382Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("factorialForloop")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d8bf9d63e6998adc436772fefc8f990394bdc5df")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+289ca44c8402bb3666bcdce622e38910e385f1de")]
 [assembly: System.Reflection.AssemblyProductAttribute("factorialForloop")]
 [assembly: System.Reflection.AssemblyTitleAttribute("factorialForloop")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

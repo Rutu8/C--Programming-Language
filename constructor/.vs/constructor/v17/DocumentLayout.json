@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\c# programs\\C--Programming-Language\\constructor\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C288C692-2C15-46AB-9527-BAE4B8F1580F}|constructor\\constructor.csproj|d:\\c# programs\\c--programming-language\\constructor\\constructor\\average.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C288C692-2C15-46AB-9527-BAE4B8F1580F}|constructor\\constructor.csproj|solutionrelative:constructor\\average.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C288C692-2C15-46AB-9527-BAE4B8F1580F}|constructor\\constructor.csproj|d:\\c# programs\\c--programming-language\\constructor\\constructor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C288C692-2C15-46AB-9527-BAE4B8F1580F}|constructor\\constructor.csproj|solutionrelative:constructor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Average.cs",
+              "DocumentMoniker": "D:\\c# programs\\C--Programming-Language\\constructor\\constructor\\Average.cs",
+              "RelativeDocumentMoniker": "constructor\\Average.cs",
+              "ToolTip": "D:\\c# programs\\C--Programming-Language\\constructor\\constructor\\Average.cs",
+              "RelativeToolTip": "constructor\\Average.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T13:49:21.597Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\c# programs\\C--Programming-Language\\constructor\\constructor\\Program.cs",
+              "RelativeDocumentMoniker": "constructor\\Program.cs",
+              "ToolTip": "D:\\c# programs\\C--Programming-Language\\constructor\\constructor\\Program.cs",
+              "RelativeToolTip": "constructor\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T13:45:17.922Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

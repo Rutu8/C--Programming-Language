@@ -1,11 +1,10 @@
-﻿int i;
-//int fact;
-//Console.WriteLine("Enter Number: ");
-//fact = int.Parse(Console.ReadLine()!);
-int fact = 1;
-for (i=1;i<=5;i++)
+﻿
+int fact,i,sum=1;
+Console.WriteLine("Enter Number: ");
+fact = int.Parse(Console.ReadLine()!);
+//int fact = 1;
+for (i=1;i<=fact;i++)
 {
-    fact = fact*i;
-
-}
-Console.WriteLine("Factorial Number is: "+fact);
+    sum = sum*i;
+}  
+Console.WriteLine("Factorial Number is: "+sum);
