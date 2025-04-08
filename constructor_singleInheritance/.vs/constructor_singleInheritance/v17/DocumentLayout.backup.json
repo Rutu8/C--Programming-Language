@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\c# programs\\C--Programming-Language\\constructor_singleInheritance\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8A481D1B-6A0E-4610-A56A-CE800D3FB23C}|constructor_singleInheritance\\constructor_singleInheritance.csproj|d:\\c# programs\\c--programming-language\\constructor_singleinheritance\\constructor_singleinheritance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A481D1B-6A0E-4610-A56A-CE800D3FB23C}|constructor_singleInheritance\\constructor_singleInheritance.csproj|solutionrelative:constructor_singleinheritance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A481D1B-6A0E-4610-A56A-CE800D3FB23C}|constructor_singleInheritance\\constructor_singleInheritance.csproj|d:\\c# programs\\c--programming-language\\constructor_singleinheritance\\constructor_singleinheritance\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A481D1B-6A0E-4610-A56A-CE800D3FB23C}|constructor_singleInheritance\\constructor_singleInheritance.csproj|solutionrelative:constructor_singleinheritance\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A481D1B-6A0E-4610-A56A-CE800D3FB23C}|constructor_singleInheritance\\constructor_singleInheritance.csproj|d:\\c# programs\\c--programming-language\\constructor_singleinheritance\\constructor_singleinheritance\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A481D1B-6A0E-4610-A56A-CE800D3FB23C}|constructor_singleInheritance\\constructor_singleInheritance.csproj|solutionrelative:constructor_singleinheritance\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Dog.cs",
+              "DocumentMoniker": "D:\\c# programs\\C--Programming-Language\\constructor_singleInheritance\\constructor_singleInheritance\\Dog.cs",
+              "RelativeDocumentMoniker": "constructor_singleInheritance\\Dog.cs",
+              "ToolTip": "D:\\c# programs\\C--Programming-Language\\constructor_singleInheritance\\constructor_singleInheritance\\Dog.cs",
+              "RelativeToolTip": "constructor_singleInheritance\\Dog.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T16:57:56.287Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Animal.cs",
+              "DocumentMoniker": "D:\\c# programs\\C--Programming-Language\\constructor_singleInheritance\\constructor_singleInheritance\\Animal.cs",
+              "RelativeDocumentMoniker": "constructor_singleInheritance\\Animal.cs",
+              "ToolTip": "D:\\c# programs\\C--Programming-Language\\constructor_singleInheritance\\constructor_singleInheritance\\Animal.cs",
+              "RelativeToolTip": "constructor_singleInheritance\\Animal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T16:50:31.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\c# programs\\C--Programming-Language\\constructor_singleInheritance\\constructor_singleInheritance\\Program.cs",
+              "RelativeDocumentMoniker": "constructor_singleInheritance\\Program.cs",
+              "ToolTip": "D:\\c# programs\\C--Programming-Language\\constructor_singleInheritance\\constructor_singleInheritance\\Program.cs",
+              "RelativeToolTip": "constructor_singleInheritance\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T16:46:05.238Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -2,11 +2,12 @@
 Console.WriteLine("Enter a Number: ");
 num = int.Parse(Console.ReadLine()!);
 
-for(int i= 2; i<100; i++)
+for(int i= 2; i<num; i++)
 {
-    if(num%i ==0)
+    if(num%i==0)
     {
         count++;
+        break;
 
     }
 }

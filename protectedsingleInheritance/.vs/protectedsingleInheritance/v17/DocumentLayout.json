@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\c# programs\\C--Programming-Language\\protectedsingleInheritance\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A19C38AC-5D9A-4341-BFD6-B437568F169A}|protectedsingleInheritance\\protectedsingleInheritance.csproj|d:\\c# programs\\c--programming-language\\protectedsingleinheritance\\protectedsingleinheritance\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A19C38AC-5D9A-4341-BFD6-B437568F169A}|protectedsingleInheritance\\protectedsingleInheritance.csproj|solutionrelative:protectedsingleinheritance\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A19C38AC-5D9A-4341-BFD6-B437568F169A}|protectedsingleInheritance\\protectedsingleInheritance.csproj|d:\\c# programs\\c--programming-language\\protectedsingleinheritance\\protectedsingleinheritance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A19C38AC-5D9A-4341-BFD6-B437568F169A}|protectedsingleInheritance\\protectedsingleInheritance.csproj|solutionrelative:protectedsingleinheritance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A19C38AC-5D9A-4341-BFD6-B437568F169A}|protectedsingleInheritance\\protectedsingleInheritance.csproj|d:\\c# programs\\c--programming-language\\protectedsingleinheritance\\protectedsingleinheritance\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A19C38AC-5D9A-4341-BFD6-B437568F169A}|protectedsingleInheritance\\protectedsingleInheritance.csproj|solutionrelative:protectedsingleinheritance\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\c# programs\\C--Programming-Language\\protectedsingleInheritance\\protectedsingleInheritance\\Student.cs",
+              "RelativeDocumentMoniker": "protectedsingleInheritance\\Student.cs",
+              "ToolTip": "D:\\c# programs\\C--Programming-Language\\protectedsingleInheritance\\protectedsingleInheritance\\Student.cs",
+              "RelativeToolTip": "protectedsingleInheritance\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T17:31:46.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Person.cs",
+              "DocumentMoniker": "D:\\c# programs\\C--Programming-Language\\protectedsingleInheritance\\protectedsingleInheritance\\Person.cs",
+              "RelativeDocumentMoniker": "protectedsingleInheritance\\Person.cs",
+              "ToolTip": "D:\\c# programs\\C--Programming-Language\\protectedsingleInheritance\\protectedsingleInheritance\\Person.cs",
+              "RelativeToolTip": "protectedsingleInheritance\\Person.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T17:26:31.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\c# programs\\C--Programming-Language\\protectedsingleInheritance\\protectedsingleInheritance\\Program.cs",
+              "RelativeDocumentMoniker": "protectedsingleInheritance\\Program.cs",
+              "ToolTip": "D:\\c# programs\\C--Programming-Language\\protectedsingleInheritance\\protectedsingleInheritance\\Program.cs",
+              "RelativeToolTip": "protectedsingleInheritance\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T17:26:08.668Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
