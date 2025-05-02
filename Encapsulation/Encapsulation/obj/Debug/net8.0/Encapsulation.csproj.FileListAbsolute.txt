@@ -1,0 +1,15 @@
+D:\c# programs\C--Programming-Language\Encapsulation\Encapsulation\bin\Debug\net8.0\Encapsulation.exe
+D:\c# programs\C--Programming-Language\Encapsulation\Encapsulation\bin\Debug\net8.0\Encapsulation.deps.json
+D:\c# programs\C--Programming-Language\Encapsulation\Encapsulation\bin\Debug\net8.0\Encapsulation.runtimeconfig.json
+D:\c# programs\C--Programming-Language\Encapsulation\Encapsulation\bin\Debug\net8.0\Encapsulation.dll
+D:\c# programs\C--Programming-Language\Encapsulation\Encapsulation\bin\Debug\net8.0\Encapsulation.pdb
+D:\c# programs\C--Programming-Language\Encapsulation\Encapsulation\obj\Debug\net8.0\Encapsulation.GeneratedMSBuildEditorConfig.editorconfig
+D:\c# programs\C--Programming-Language\Encapsulation\Encapsulation\obj\Debug\net8.0\Encapsulation.AssemblyInfoInputs.cache
+D:\c# programs\C--Programming-Language\Encapsulation\Encapsulation\obj\Debug\net8.0\Encapsulation.AssemblyInfo.cs
+D:\c# programs\C--Programming-Language\Encapsulation\Encapsulation\obj\Debug\net8.0\Encapsulation.csproj.CoreCompileInputs.cache
+D:\c# programs\C--Programming-Language\Encapsulation\Encapsulation\obj\Debug\net8.0\Encapsulation.sourcelink.json
+D:\c# programs\C--Programming-Language\Encapsulation\Encapsulation\obj\Debug\net8.0\Encapsulation.dll
+D:\c# programs\C--Programming-Language\Encapsulation\Encapsulation\obj\Debug\net8.0\refint\Encapsulation.dll
+D:\c# programs\C--Programming-Language\Encapsulation\Encapsulation\obj\Debug\net8.0\Encapsulation.pdb
+D:\c# programs\C--Programming-Language\Encapsulation\Encapsulation\obj\Debug\net8.0\Encapsulation.genruntimeconfig.cache
+D:\c# programs\C--Programming-Language\Encapsulation\Encapsulation\obj\Debug\net8.0\ref\Encapsulation.dll

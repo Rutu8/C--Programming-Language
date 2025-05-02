@@ -1,0 +1,15 @@
+D:\c# programs\C--Programming-Language\abstraction\abstraction\obj\Debug\net8.0\abstraction.GeneratedMSBuildEditorConfig.editorconfig
+D:\c# programs\C--Programming-Language\abstraction\abstraction\obj\Debug\net8.0\abstraction.AssemblyInfoInputs.cache
+D:\c# programs\C--Programming-Language\abstraction\abstraction\obj\Debug\net8.0\abstraction.AssemblyInfo.cs
+D:\c# programs\C--Programming-Language\abstraction\abstraction\obj\Debug\net8.0\abstraction.csproj.CoreCompileInputs.cache
+D:\c# programs\C--Programming-Language\abstraction\abstraction\obj\Debug\net8.0\abstraction.sourcelink.json
+D:\c# programs\C--Programming-Language\abstraction\abstraction\bin\Debug\net8.0\abstraction.exe
+D:\c# programs\C--Programming-Language\abstraction\abstraction\bin\Debug\net8.0\abstraction.deps.json
+D:\c# programs\C--Programming-Language\abstraction\abstraction\bin\Debug\net8.0\abstraction.runtimeconfig.json
+D:\c# programs\C--Programming-Language\abstraction\abstraction\bin\Debug\net8.0\abstraction.dll
+D:\c# programs\C--Programming-Language\abstraction\abstraction\bin\Debug\net8.0\abstraction.pdb
+D:\c# programs\C--Programming-Language\abstraction\abstraction\obj\Debug\net8.0\abstraction.dll
+D:\c# programs\C--Programming-Language\abstraction\abstraction\obj\Debug\net8.0\refint\abstraction.dll
+D:\c# programs\C--Programming-Language\abstraction\abstraction\obj\Debug\net8.0\abstraction.pdb
+D:\c# programs\C--Programming-Language\abstraction\abstraction\obj\Debug\net8.0\abstraction.genruntimeconfig.cache
+D:\c# programs\C--Programming-Language\abstraction\abstraction\obj\Debug\net8.0\ref\abstraction.dll

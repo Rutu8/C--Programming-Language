@@ -1,0 +1,15 @@
+D:\c# programs\C--Programming-Language\abstraction_construction\abstraction_construction\bin\Debug\net8.0\abstraction_construction.exe
+D:\c# programs\C--Programming-Language\abstraction_construction\abstraction_construction\bin\Debug\net8.0\abstraction_construction.deps.json
+D:\c# programs\C--Programming-Language\abstraction_construction\abstraction_construction\bin\Debug\net8.0\abstraction_construction.runtimeconfig.json
+D:\c# programs\C--Programming-Language\abstraction_construction\abstraction_construction\bin\Debug\net8.0\abstraction_construction.dll
+D:\c# programs\C--Programming-Language\abstraction_construction\abstraction_construction\bin\Debug\net8.0\abstraction_construction.pdb
+D:\c# programs\C--Programming-Language\abstraction_construction\abstraction_construction\obj\Debug\net8.0\abstraction_construction.GeneratedMSBuildEditorConfig.editorconfig
+D:\c# programs\C--Programming-Language\abstraction_construction\abstraction_construction\obj\Debug\net8.0\abstraction_construction.AssemblyInfoInputs.cache
+D:\c# programs\C--Programming-Language\abstraction_construction\abstraction_construction\obj\Debug\net8.0\abstraction_construction.AssemblyInfo.cs
+D:\c# programs\C--Programming-Language\abstraction_construction\abstraction_construction\obj\Debug\net8.0\abstraction_construction.csproj.CoreCompileInputs.cache
+D:\c# programs\C--Programming-Language\abstraction_construction\abstraction_construction\obj\Debug\net8.0\abstraction_construction.sourcelink.json
+D:\c# programs\C--Programming-Language\abstraction_construction\abstraction_construction\obj\Debug\net8.0\abstraction_construction.dll
+D:\c# programs\C--Programming-Language\abstraction_construction\abstraction_construction\obj\Debug\net8.0\refint\abstraction_construction.dll
+D:\c# programs\C--Programming-Language\abstraction_construction\abstraction_construction\obj\Debug\net8.0\abstraction_construction.pdb
+D:\c# programs\C--Programming-Language\abstraction_construction\abstraction_construction\obj\Debug\net8.0\abstraction_construction.genruntimeconfig.cache
+D:\c# programs\C--Programming-Language\abstraction_construction\abstraction_construction\obj\Debug\net8.0\ref\abstraction_construction.dll

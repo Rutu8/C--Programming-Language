@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\c# programs\\C--Programming-Language\\multipleInheritance_same_methods\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{21EBC16F-4EA6-4011-8DB7-FFFB00ABC3BF}|multipleInheritance_same_methods\\multipleInheritance_same_methods.csproj|d:\\c# programs\\c--programming-language\\multipleinheritance_same_methods\\multipleinheritance_same_methods\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21EBC16F-4EA6-4011-8DB7-FFFB00ABC3BF}|multipleInheritance_same_methods\\multipleInheritance_same_methods.csproj|solutionrelative:multipleinheritance_same_methods\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21EBC16F-4EA6-4011-8DB7-FFFB00ABC3BF}|multipleInheritance_same_methods\\multipleInheritance_same_methods.csproj|d:\\c# programs\\c--programming-language\\multipleinheritance_same_methods\\multipleinheritance_same_methods\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21EBC16F-4EA6-4011-8DB7-FFFB00ABC3BF}|multipleInheritance_same_methods\\multipleInheritance_same_methods.csproj|solutionrelative:multipleinheritance_same_methods\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21EBC16F-4EA6-4011-8DB7-FFFB00ABC3BF}|multipleInheritance_same_methods\\multipleInheritance_same_methods.csproj|d:\\c# programs\\c--programming-language\\multipleinheritance_same_methods\\multipleinheritance_same_methods\\iteacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21EBC16F-4EA6-4011-8DB7-FFFB00ABC3BF}|multipleInheritance_same_methods\\multipleInheritance_same_methods.csproj|solutionrelative:multipleinheritance_same_methods\\iteacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21EBC16F-4EA6-4011-8DB7-FFFB00ABC3BF}|multipleInheritance_same_methods\\multipleInheritance_same_methods.csproj|d:\\c# programs\\c--programming-language\\multipleinheritance_same_methods\\multipleinheritance_same_methods\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21EBC16F-4EA6-4011-8DB7-FFFB00ABC3BF}|multipleInheritance_same_methods\\multipleInheritance_same_methods.csproj|solutionrelative:multipleinheritance_same_methods\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Iteacher.cs",
+              "DocumentMoniker": "D:\\c# programs\\C--Programming-Language\\multipleInheritance_same_methods\\multipleInheritance_same_methods\\Iteacher.cs",
+              "RelativeDocumentMoniker": "multipleInheritance_same_methods\\Iteacher.cs",
+              "ToolTip": "D:\\c# programs\\C--Programming-Language\\multipleInheritance_same_methods\\multipleInheritance_same_methods\\Iteacher.cs",
+              "RelativeToolTip": "multipleInheritance_same_methods\\Iteacher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T14:35:03.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\c# programs\\C--Programming-Language\\multipleInheritance_same_methods\\multipleInheritance_same_methods\\Employee.cs",
+              "RelativeDocumentMoniker": "multipleInheritance_same_methods\\Employee.cs",
+              "ToolTip": "D:\\c# programs\\C--Programming-Language\\multipleInheritance_same_methods\\multipleInheritance_same_methods\\Employee.cs",
+              "RelativeToolTip": "multipleInheritance_same_methods\\Employee.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T14:33:45.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Person.cs",
+              "DocumentMoniker": "D:\\c# programs\\C--Programming-Language\\multipleInheritance_same_methods\\multipleInheritance_same_methods\\Person.cs",
+              "RelativeDocumentMoniker": "multipleInheritance_same_methods\\Person.cs",
+              "ToolTip": "D:\\c# programs\\C--Programming-Language\\multipleInheritance_same_methods\\multipleInheritance_same_methods\\Person.cs",
+              "RelativeToolTip": "multipleInheritance_same_methods\\Person.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T14:32:45.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\c# programs\\C--Programming-Language\\multipleInheritance_same_methods\\multipleInheritance_same_methods\\Program.cs",
+              "RelativeDocumentMoniker": "multipleInheritance_same_methods\\Program.cs",
+              "ToolTip": "D:\\c# programs\\C--Programming-Language\\multipleInheritance_same_methods\\multipleInheritance_same_methods\\Program.cs",
+              "RelativeToolTip": "multipleInheritance_same_methods\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T14:32:24.2Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

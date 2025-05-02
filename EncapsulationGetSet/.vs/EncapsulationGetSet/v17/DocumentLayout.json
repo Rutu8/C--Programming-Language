@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\c# programs\\C--Programming-Language\\EncapsulationGetSet\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{319F9239-8FAC-4EF2-BA9D-95D941BA965C}|EncapsulationGetSet\\EncapsulationGetSet.csproj|d:\\c# programs\\c--programming-language\\encapsulationgetset\\encapsulationgetset\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{319F9239-8FAC-4EF2-BA9D-95D941BA965C}|EncapsulationGetSet\\EncapsulationGetSet.csproj|solutionrelative:encapsulationgetset\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{319F9239-8FAC-4EF2-BA9D-95D941BA965C}|EncapsulationGetSet\\EncapsulationGetSet.csproj|d:\\c# programs\\c--programming-language\\encapsulationgetset\\encapsulationgetset\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{319F9239-8FAC-4EF2-BA9D-95D941BA965C}|EncapsulationGetSet\\EncapsulationGetSet.csproj|solutionrelative:encapsulationgetset\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Person.cs",
+              "DocumentMoniker": "D:\\c# programs\\C--Programming-Language\\EncapsulationGetSet\\EncapsulationGetSet\\Person.cs",
+              "RelativeDocumentMoniker": "EncapsulationGetSet\\Person.cs",
+              "ToolTip": "D:\\c# programs\\C--Programming-Language\\EncapsulationGetSet\\EncapsulationGetSet\\Person.cs",
+              "RelativeToolTip": "EncapsulationGetSet\\Person.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T06:32:52.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\c# programs\\C--Programming-Language\\EncapsulationGetSet\\EncapsulationGetSet\\Program.cs",
+              "RelativeDocumentMoniker": "EncapsulationGetSet\\Program.cs",
+              "ToolTip": "D:\\c# programs\\C--Programming-Language\\EncapsulationGetSet\\EncapsulationGetSet\\Program.cs",
+              "RelativeToolTip": "EncapsulationGetSet\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T06:32:09.878Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

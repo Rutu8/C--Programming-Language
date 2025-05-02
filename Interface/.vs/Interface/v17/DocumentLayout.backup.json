@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\c# programs\\C--Programming-Language\\Interface\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D28AEFD0-F595-4328-A331-6ABDE1C60D1B}|Interface\\Interface.csproj|d:\\c# programs\\c--programming-language\\interface\\interface\\construction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D28AEFD0-F595-4328-A331-6ABDE1C60D1B}|Interface\\Interface.csproj|solutionrelative:interface\\construction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D28AEFD0-F595-4328-A331-6ABDE1C60D1B}|Interface\\Interface.csproj|d:\\c# programs\\c--programming-language\\interface\\interface\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D28AEFD0-F595-4328-A331-6ABDE1C60D1B}|Interface\\Interface.csproj|solutionrelative:interface\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D28AEFD0-F595-4328-A331-6ABDE1C60D1B}|Interface\\Interface.csproj|d:\\c# programs\\c--programming-language\\interface\\interface\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D28AEFD0-F595-4328-A331-6ABDE1C60D1B}|Interface\\Interface.csproj|solutionrelative:interface\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Home.cs",
+              "DocumentMoniker": "D:\\c# programs\\C--Programming-Language\\Interface\\Interface\\Home.cs",
+              "RelativeDocumentMoniker": "Interface\\Home.cs",
+              "ToolTip": "D:\\c# programs\\C--Programming-Language\\Interface\\Interface\\Home.cs*",
+              "RelativeToolTip": "Interface\\Home.cs*",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T13:49:53.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Construction.cs",
+              "DocumentMoniker": "D:\\c# programs\\C--Programming-Language\\Interface\\Interface\\Construction.cs",
+              "RelativeDocumentMoniker": "Interface\\Construction.cs",
+              "ToolTip": "D:\\c# programs\\C--Programming-Language\\Interface\\Interface\\Construction.cs*",
+              "RelativeToolTip": "Interface\\Construction.cs*",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBMAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T13:47:33.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\c# programs\\C--Programming-Language\\Interface\\Interface\\Program.cs",
+              "RelativeDocumentMoniker": "Interface\\Program.cs",
+              "ToolTip": "D:\\c# programs\\C--Programming-Language\\Interface\\Interface\\Program.cs*",
+              "RelativeToolTip": "Interface\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T13:45:54.194Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

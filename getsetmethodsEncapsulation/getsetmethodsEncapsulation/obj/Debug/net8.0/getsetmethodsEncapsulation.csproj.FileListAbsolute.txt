@@ -1,0 +1,15 @@
+D:\c# programs\C--Programming-Language\getsetmethodsEncapsulation\getsetmethodsEncapsulation\bin\Debug\net8.0\getsetmethodsEncapsulation.exe
+D:\c# programs\C--Programming-Language\getsetmethodsEncapsulation\getsetmethodsEncapsulation\bin\Debug\net8.0\getsetmethodsEncapsulation.deps.json
+D:\c# programs\C--Programming-Language\getsetmethodsEncapsulation\getsetmethodsEncapsulation\bin\Debug\net8.0\getsetmethodsEncapsulation.runtimeconfig.json
+D:\c# programs\C--Programming-Language\getsetmethodsEncapsulation\getsetmethodsEncapsulation\bin\Debug\net8.0\getsetmethodsEncapsulation.dll
+D:\c# programs\C--Programming-Language\getsetmethodsEncapsulation\getsetmethodsEncapsulation\bin\Debug\net8.0\getsetmethodsEncapsulation.pdb
+D:\c# programs\C--Programming-Language\getsetmethodsEncapsulation\getsetmethodsEncapsulation\obj\Debug\net8.0\getsetmethodsEncapsulation.GeneratedMSBuildEditorConfig.editorconfig
+D:\c# programs\C--Programming-Language\getsetmethodsEncapsulation\getsetmethodsEncapsulation\obj\Debug\net8.0\getsetmethodsEncapsulation.AssemblyInfoInputs.cache
+D:\c# programs\C--Programming-Language\getsetmethodsEncapsulation\getsetmethodsEncapsulation\obj\Debug\net8.0\getsetmethodsEncapsulation.AssemblyInfo.cs
+D:\c# programs\C--Programming-Language\getsetmethodsEncapsulation\getsetmethodsEncapsulation\obj\Debug\net8.0\getsetmethodsEncapsulation.csproj.CoreCompileInputs.cache
+D:\c# programs\C--Programming-Language\getsetmethodsEncapsulation\getsetmethodsEncapsulation\obj\Debug\net8.0\getsetmethodsEncapsulation.sourcelink.json
+D:\c# programs\C--Programming-Language\getsetmethodsEncapsulation\getsetmethodsEncapsulation\obj\Debug\net8.0\getsetmethodsEncapsulation.dll
+D:\c# programs\C--Programming-Language\getsetmethodsEncapsulation\getsetmethodsEncapsulation\obj\Debug\net8.0\refint\getsetmethodsEncapsulation.dll
+D:\c# programs\C--Programming-Language\getsetmethodsEncapsulation\getsetmethodsEncapsulation\obj\Debug\net8.0\getsetmethodsEncapsulation.pdb
+D:\c# programs\C--Programming-Language\getsetmethodsEncapsulation\getsetmethodsEncapsulation\obj\Debug\net8.0\getsetmethodsEncapsulation.genruntimeconfig.cache
+D:\c# programs\C--Programming-Language\getsetmethodsEncapsulation\getsetmethodsEncapsulation\obj\Debug\net8.0\ref\getsetmethodsEncapsulation.dll

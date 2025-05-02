@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "multipleInheritance_same_methods/1.0.0": {
+        "runtime": {
+          "multipleInheritance_same_methods.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "multipleInheritance_same_methods/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

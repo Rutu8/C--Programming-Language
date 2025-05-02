@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("protectedsingleInheritance")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fb702970becf4e3e2e26fa49d99e7d65ea57a0ff")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+df774e4bef80d20addbf2d00b4bf62bc7ff4e617")]
 [assembly: System.Reflection.AssemblyProductAttribute("protectedsingleInheritance")]
 [assembly: System.Reflection.AssemblyTitleAttribute("protectedsingleInheritance")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

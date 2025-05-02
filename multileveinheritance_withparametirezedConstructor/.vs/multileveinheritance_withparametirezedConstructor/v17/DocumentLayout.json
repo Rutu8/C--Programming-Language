@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\c# programs\\C--Programming-Language\\multileveinheritance_withparametirezedConstructor\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5C353DEB-BDE1-4C56-AFEE-2E21EA479CE2}|multileveinheritance_withparametirezedConstructor\\multileveinheritance_withparametirezedConstructor.csproj|d:\\c# programs\\c--programming-language\\multileveinheritance_withparametirezedconstructor\\multileveinheritance_withparametirezedconstructor\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C353DEB-BDE1-4C56-AFEE-2E21EA479CE2}|multileveinheritance_withparametirezedConstructor\\multileveinheritance_withparametirezedConstructor.csproj|solutionrelative:multileveinheritance_withparametirezedconstructor\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C353DEB-BDE1-4C56-AFEE-2E21EA479CE2}|multileveinheritance_withparametirezedConstructor\\multileveinheritance_withparametirezedConstructor.csproj|d:\\c# programs\\c--programming-language\\multileveinheritance_withparametirezedconstructor\\multileveinheritance_withparametirezedconstructor\\chargingcar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C353DEB-BDE1-4C56-AFEE-2E21EA479CE2}|multileveinheritance_withparametirezedConstructor\\multileveinheritance_withparametirezedConstructor.csproj|solutionrelative:multileveinheritance_withparametirezedconstructor\\chargingcar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C353DEB-BDE1-4C56-AFEE-2E21EA479CE2}|multileveinheritance_withparametirezedConstructor\\multileveinheritance_withparametirezedConstructor.csproj|d:\\c# programs\\c--programming-language\\multileveinheritance_withparametirezedconstructor\\multileveinheritance_withparametirezedconstructor\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C353DEB-BDE1-4C56-AFEE-2E21EA479CE2}|multileveinheritance_withparametirezedConstructor\\multileveinheritance_withparametirezedConstructor.csproj|solutionrelative:multileveinheritance_withparametirezedconstructor\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C353DEB-BDE1-4C56-AFEE-2E21EA479CE2}|multileveinheritance_withparametirezedConstructor\\multileveinheritance_withparametirezedConstructor.csproj|d:\\c# programs\\c--programming-language\\multileveinheritance_withparametirezedconstructor\\multileveinheritance_withparametirezedconstructor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C353DEB-BDE1-4C56-AFEE-2E21EA479CE2}|multileveinheritance_withparametirezedConstructor\\multileveinheritance_withparametirezedConstructor.csproj|solutionrelative:multileveinheritance_withparametirezedconstructor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Chargingcar.cs",
+              "DocumentMoniker": "D:\\c# programs\\C--Programming-Language\\multileveinheritance_withparametirezedConstructor\\multileveinheritance_withparametirezedConstructor\\Chargingcar.cs",
+              "RelativeDocumentMoniker": "multileveinheritance_withparametirezedConstructor\\Chargingcar.cs",
+              "ToolTip": "D:\\c# programs\\C--Programming-Language\\multileveinheritance_withparametirezedConstructor\\multileveinheritance_withparametirezedConstructor\\Chargingcar.cs",
+              "RelativeToolTip": "multileveinheritance_withparametirezedConstructor\\Chargingcar.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T11:08:21.186Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Car.cs",
+              "DocumentMoniker": "D:\\c# programs\\C--Programming-Language\\multileveinheritance_withparametirezedConstructor\\multileveinheritance_withparametirezedConstructor\\Car.cs",
+              "RelativeDocumentMoniker": "multileveinheritance_withparametirezedConstructor\\Car.cs",
+              "ToolTip": "D:\\c# programs\\C--Programming-Language\\multileveinheritance_withparametirezedConstructor\\multileveinheritance_withparametirezedConstructor\\Car.cs",
+              "RelativeToolTip": "multileveinheritance_withparametirezedConstructor\\Car.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T11:03:38.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Vehicle.cs",
+              "DocumentMoniker": "D:\\c# programs\\C--Programming-Language\\multileveinheritance_withparametirezedConstructor\\multileveinheritance_withparametirezedConstructor\\Vehicle.cs",
+              "RelativeDocumentMoniker": "multileveinheritance_withparametirezedConstructor\\Vehicle.cs",
+              "ToolTip": "D:\\c# programs\\C--Programming-Language\\multileveinheritance_withparametirezedConstructor\\multileveinheritance_withparametirezedConstructor\\Vehicle.cs",
+              "RelativeToolTip": "multileveinheritance_withparametirezedConstructor\\Vehicle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T10:59:49.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\c# programs\\C--Programming-Language\\multileveinheritance_withparametirezedConstructor\\multileveinheritance_withparametirezedConstructor\\Program.cs",
+              "RelativeDocumentMoniker": "multileveinheritance_withparametirezedConstructor\\Program.cs",
+              "ToolTip": "D:\\c# programs\\C--Programming-Language\\multileveinheritance_withparametirezedConstructor\\multileveinheritance_withparametirezedConstructor\\Program.cs",
+              "RelativeToolTip": "multileveinheritance_withparametirezedConstructor\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T10:52:04.317Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

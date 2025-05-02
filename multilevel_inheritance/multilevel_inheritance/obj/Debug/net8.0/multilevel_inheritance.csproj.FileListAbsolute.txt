@@ -1,0 +1,15 @@
+D:\c# programs\C--Programming-Language\multilevel_inheritance\multilevel_inheritance\bin\Debug\net8.0\multilevel_inheritance.exe
+D:\c# programs\C--Programming-Language\multilevel_inheritance\multilevel_inheritance\bin\Debug\net8.0\multilevel_inheritance.deps.json
+D:\c# programs\C--Programming-Language\multilevel_inheritance\multilevel_inheritance\bin\Debug\net8.0\multilevel_inheritance.runtimeconfig.json
+D:\c# programs\C--Programming-Language\multilevel_inheritance\multilevel_inheritance\bin\Debug\net8.0\multilevel_inheritance.dll
+D:\c# programs\C--Programming-Language\multilevel_inheritance\multilevel_inheritance\bin\Debug\net8.0\multilevel_inheritance.pdb
+D:\c# programs\C--Programming-Language\multilevel_inheritance\multilevel_inheritance\obj\Debug\net8.0\multilevel_inheritance.GeneratedMSBuildEditorConfig.editorconfig
+D:\c# programs\C--Programming-Language\multilevel_inheritance\multilevel_inheritance\obj\Debug\net8.0\multilevel_inheritance.AssemblyInfoInputs.cache
+D:\c# programs\C--Programming-Language\multilevel_inheritance\multilevel_inheritance\obj\Debug\net8.0\multilevel_inheritance.AssemblyInfo.cs
+D:\c# programs\C--Programming-Language\multilevel_inheritance\multilevel_inheritance\obj\Debug\net8.0\multilevel_inheritance.csproj.CoreCompileInputs.cache
+D:\c# programs\C--Programming-Language\multilevel_inheritance\multilevel_inheritance\obj\Debug\net8.0\multilevel_inheritance.sourcelink.json
+D:\c# programs\C--Programming-Language\multilevel_inheritance\multilevel_inheritance\obj\Debug\net8.0\multilevel_inheritance.dll
+D:\c# programs\C--Programming-Language\multilevel_inheritance\multilevel_inheritance\obj\Debug\net8.0\refint\multilevel_inheritance.dll
+D:\c# programs\C--Programming-Language\multilevel_inheritance\multilevel_inheritance\obj\Debug\net8.0\multilevel_inheritance.pdb
+D:\c# programs\C--Programming-Language\multilevel_inheritance\multilevel_inheritance\obj\Debug\net8.0\multilevel_inheritance.genruntimeconfig.cache
+D:\c# programs\C--Programming-Language\multilevel_inheritance\multilevel_inheritance\obj\Debug\net8.0\ref\multilevel_inheritance.dll

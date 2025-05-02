@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "multileveinheritance_withparametirezedConstructor/1.0.0": {
+        "runtime": {
+          "multileveinheritance_withparametirezedConstructor.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "multileveinheritance_withparametirezedConstructor/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

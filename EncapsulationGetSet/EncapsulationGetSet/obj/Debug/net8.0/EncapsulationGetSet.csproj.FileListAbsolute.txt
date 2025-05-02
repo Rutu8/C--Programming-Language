@@ -1,0 +1,15 @@
+D:\c# programs\C--Programming-Language\EncapsulationGetSet\EncapsulationGetSet\bin\Debug\net8.0\EncapsulationGetSet.exe
+D:\c# programs\C--Programming-Language\EncapsulationGetSet\EncapsulationGetSet\bin\Debug\net8.0\EncapsulationGetSet.deps.json
+D:\c# programs\C--Programming-Language\EncapsulationGetSet\EncapsulationGetSet\bin\Debug\net8.0\EncapsulationGetSet.runtimeconfig.json
+D:\c# programs\C--Programming-Language\EncapsulationGetSet\EncapsulationGetSet\bin\Debug\net8.0\EncapsulationGetSet.dll
+D:\c# programs\C--Programming-Language\EncapsulationGetSet\EncapsulationGetSet\bin\Debug\net8.0\EncapsulationGetSet.pdb
+D:\c# programs\C--Programming-Language\EncapsulationGetSet\EncapsulationGetSet\obj\Debug\net8.0\EncapsulationGetSet.GeneratedMSBuildEditorConfig.editorconfig
+D:\c# programs\C--Programming-Language\EncapsulationGetSet\EncapsulationGetSet\obj\Debug\net8.0\EncapsulationGetSet.AssemblyInfoInputs.cache
+D:\c# programs\C--Programming-Language\EncapsulationGetSet\EncapsulationGetSet\obj\Debug\net8.0\EncapsulationGetSet.AssemblyInfo.cs
+D:\c# programs\C--Programming-Language\EncapsulationGetSet\EncapsulationGetSet\obj\Debug\net8.0\EncapsulationGetSet.csproj.CoreCompileInputs.cache
+D:\c# programs\C--Programming-Language\EncapsulationGetSet\EncapsulationGetSet\obj\Debug\net8.0\EncapsulationGetSet.sourcelink.json
+D:\c# programs\C--Programming-Language\EncapsulationGetSet\EncapsulationGetSet\obj\Debug\net8.0\EncapsulationGetSet.dll
+D:\c# programs\C--Programming-Language\EncapsulationGetSet\EncapsulationGetSet\obj\Debug\net8.0\refint\EncapsulationGetSet.dll
+D:\c# programs\C--Programming-Language\EncapsulationGetSet\EncapsulationGetSet\obj\Debug\net8.0\EncapsulationGetSet.pdb
+D:\c# programs\C--Programming-Language\EncapsulationGetSet\EncapsulationGetSet\obj\Debug\net8.0\EncapsulationGetSet.genruntimeconfig.cache
+D:\c# programs\C--Programming-Language\EncapsulationGetSet\EncapsulationGetSet\obj\Debug\net8.0\ref\EncapsulationGetSet.dll
